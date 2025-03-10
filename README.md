@@ -1,2 +1,2 @@
 # Face-Recognition-MTCNN-FaceNet
-![Result](Kimdami.png)
+![Result](kimdami.png)
