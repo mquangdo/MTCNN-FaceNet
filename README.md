@@ -9,5 +9,5 @@ The goal of this project is to provide a robust pipeline for face recognition, l
 # Features
 - Face Detection: Uses MTCNN to detect and align faces in images with high accuracy.
 - Facial Embeddings: Generates 128D or 512D embeddings using FaceNet for downstream tasks like face comparison.
-- Pretrained Models: Integrates pretrained weights for FaceNet (e.g., VGGFace2) and MTCNN.
+- Pretrained Models: Integrates pretrained weights for FaceNet and MTCNN.
 - Modular Design: Easily adaptable for custom datasets or fine-tuning.
